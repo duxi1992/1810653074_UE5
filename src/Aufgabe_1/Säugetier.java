@@ -1,3 +1,4 @@
+package Aufgabe_1;
 
 //Aufgabe 1
 abstract class Säugetier {
